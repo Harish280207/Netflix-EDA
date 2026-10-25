@@ -63,7 +63,7 @@ The major objectives of this project are:
 Netflix-EDA-Project/
 │
 ├── Netflix_EDA_Project.ipynb
-├── netflix_titles.csv
+├── netflix_raw_dataset.csv
 └── README.md
 ```
 
